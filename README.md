@@ -41,7 +41,11 @@ ok: [CSR1kv]
 PLAY RECAP *******************************************************************************************
 CSR1kv                     : ok=6    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
 
-TASK 3 -- Docker *** Task name: Docker Task preparation: Task Implementation: Task Troubleshoothing: Task Verification:
+TASK 3 -- Docker *** Task name: Docker 
+Task preparation: 
+Task Implementation: 
+Task Troubleshoothing: 
+Task Verification:
 
 TASK 4 -- Jenkins ** Task name: Jenkins Task preparation: Task Implementation: Task Troubleshoothing: Task Verification:
 
