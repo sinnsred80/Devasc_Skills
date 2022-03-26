@@ -10,7 +10,7 @@ headers = {
 'Content-Type': 'application/json'
 }
 
-params={'title': 'netacad devasc skills Patrick Mostad}
+params={'title': 'netacad devasc skills Patrick Mostad'}
 res = requests.post(url, headers=headers, json=params)
 print(res.json())
 
