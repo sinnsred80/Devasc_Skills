@@ -53,5 +53,9 @@ TASK 5 -- REST API & RESTCONF **** Task name: restconf Task preparation: Task Im
 
 TASK 6 -- Webex Teams API *** Task name: Webex Task preparation: Task Implementation: Task Troubleshoothing: Task Verification:
 
-TASK 7 -- BASH *** Task name: Bash Task preparation: Task Implementation: Task Troubleshoothing: Task Verification:
+TASK 7 -- BASH *** Task name: Bash 
+Task preparation: Gjøre klar konfigfiler som skal sjekkes
+Task Implementation: Brukte en mal som utgangspunkt, men gjorde noen mindre enringer
+Task Troubleshoothing: 
+Task Verification: filen check_ios.rep blir oppdatert
 

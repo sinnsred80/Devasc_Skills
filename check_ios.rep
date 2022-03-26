@@ -1,0 +1,12 @@
+2022-03-26
+
+STARTING IOSCHECK
+hostname CSR1011
+Current IOS Version:  16.9.101
+No Upgrade needed
+
+hostname CSR1012
+Current IOS Version:  16.9.1012
+This device needs an upgrade, please upgrade to:  16.9.101
+
+ENDING IOS CHECK
