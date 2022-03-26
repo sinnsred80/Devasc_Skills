@@ -51,7 +51,12 @@ TASK 4 -- Jenkins ** Task name: Jenkins Task preparation: Task Implementation: T
 
 TASK 5 -- REST API & RESTCONF **** Task name: restconf Task preparation: Task Implementation: Task Troubleshoothing: Task Verification:
 
-TASK 6 -- Webex Teams API *** Task name: Webex Task preparation: Task Implementation: Task Troubleshoothing: Task Verification:
+TASK 6 -- Webex Teams API *** 
+Task name: Webex 
+Task preparation: Få tak i token og se på API dokumentasjonen
+Task Implementation: Har funnet noen eksempler her og der som jeg har brukt. Har forsøkt å gjøre flere ting i samme kode og har derfor slått sammen to og to av oppgavene.
+Task Troubleshoothing: Litt vrient med å sende flere filer samtidig, men fikk det til.
+Task Verification: Ser alt dukker oppi WebEx
 
 TASK 7 -- BASH *** Task name: Bash 
 Task preparation: Gjøre klar konfigfiler som skal sjekkes
