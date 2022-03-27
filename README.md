@@ -41,11 +41,12 @@ ok: [CSR1kv]
 PLAY RECAP *******************************************************************************************
 CSR1kv                     : ok=6    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
 
-TASK 3 -- Docker *** Task name: Docker 
-Task preparation: 
-Task Implementation: 
+TASK 3 -- Docker *** 
+Task name: Docker 
+Task preparation: Måtte forstå hvordan jeg skulle bruke informasjonen i oppgaven. Jeg trodde jeg skulle implementere en playbook i Docker, men skjønte etter hvert at jeg skulle gjenskape det samme som var i playbook i docker.
+Task Implementation: Lagde et script basert på det som var i sample-app oppgaven, men brukte ubuntu som OS. Installerte apache server, endret portnummer til 8081.
 Task Troubleshoothing: 
-Task Verification:
+Task Verification: Fikk opp apache-serveren ved å skrive localhost:8081.
 
 TASK 4 -- Jenkins ** Task name: Jenkins Task preparation: Task Implementation: Task Troubleshoothing: Task Verification:
 
